@@ -1,0 +1,5 @@
+- 🎂 Age: 15 Years Old
+- 🌍 I'm from: Italy 
+- 📄 Languages: Python
+- 👀 Profession: Student
+- 🧩 Hobby: Graphic Designer and Project Manager
